@@ -1,0 +1,44 @@
+
+.main{
+margin-top: 20px;
+text-align: center;  
+; 
+}
+.image1{
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    margin-top: 40px;
+    margin-bottom:10px;
+}
+.inp1{
+    display: block;
+    text-align: center;
+    font-weight: bold;
+    height: 24px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom:20px;
+    border: 1px solid rgb(100, 88, 88);
+    border-radius: 24px;
+    width: 400px;
+
+.but1{
+    
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10PX;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border:1px solid black;
+    font-weight: bold;
+    border-radius: 8px;
+}
